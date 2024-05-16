@@ -1,5 +1,6 @@
 # Choreo Sample Python REST API - Reading List
 
+
 ## Repository File Structure
 
 The below table gives a brief overview of the important files in the service.\
