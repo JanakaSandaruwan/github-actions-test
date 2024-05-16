@@ -23,8 +23,5 @@ jobs:
           # Enable experimental features
           pack config experimental true
 
-          # Trust the builder
-          pack config trusted-builders add rashadxyz/test-builder:demo
-
           # Build the image
           pack build -B rashadxyz/test-builder:demo test_image
